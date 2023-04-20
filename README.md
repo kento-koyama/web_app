@@ -5,7 +5,7 @@ Home : https://scrapbox.io/kentokoyama-Eng/
 
 ## Growth/no growth model
 https://kento-koyama-growth-no-growth-script-w2r8s1.streamlit.app/
-[https://scrapbox.io/files/641a50901ab397001c37fa13.png]
+<p><img src="https://scrapbox.io/files/641a50901ab397001c37fa13.png" alt="Web_app"/></p>
 
 [** Time to extinction of bacterial population]
 https://kento-koyama-time-to-extinction-app-ccbpup.streamlit.app
