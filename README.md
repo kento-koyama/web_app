@@ -12,12 +12,11 @@
 ## [Stochastic population behavior](https://kento-koyama-random-bacteria-ina-stochastic-inactivation-d577b6.streamlitapp.com)
 ![スクリーンショット 2023-04-20 13 02 56](https://user-images.githubusercontent.com/76421729/233255552-dc8a48be-af69-4b8a-9663-ce9677600ff2.png)
 
-## [Contamination estimation](https://kento-koyama-contami-run-script-1sbkqw.streamlit.app
-![c8a8fdc107710811c0e39f5c73ea7e01])
+## [Contamination estimation](https://kento-koyama-contami-run-script-1sbkqw.streamlit.app)
 ![スクリーンショット 2023-04-20 13 03 37](https://user-images.githubusercontent.com/76421729/233256053-f5a5a1fb-71e6-488b-bf7e-78d620164214.png)
 
 
-[* Web Application Availability]
+## Web Application Availability
 The web application is available for computers, tablets, and smartphones.
  Please scan the QR code using your smartphone or tablet.
 ![6ac39bf2c98bcf21e0b87fdf4d826b52](https://user-images.githubusercontent.com/76421729/233256105-42b76de9-1c95-44b1-a5f9-c16fc295afca.png)
