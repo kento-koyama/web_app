@@ -13,7 +13,7 @@ https://kento-koyama-time-to-extinction-app-ccbpup.streamlit.app
 
 ## Stochastic population behavior
 https://kento-koyama-random-bacteria-ina-stochastic-inactivation-d577b6.streamlitapp.com
-![c8a8fdc107710811c0e39f5c73ea7e01](https://user-images.githubusercontent.com/76421729/233253999-3363f6e3-ab03-4198-83df-0e6432aa9f5a.png)
+![スクリーンショット 2023-04-20 13 02 56](https://user-images.githubusercontent.com/76421729/233255552-dc8a48be-af69-4b8a-9663-ce9677600ff2.png)
 
 [** Contamination estimation]
 https://kento-koyama-contami-run-script-1sbkqw.streamlit.app
