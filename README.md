@@ -17,8 +17,8 @@
 
 
 ## Web Application Availability
-The web application is available for computers, tablets, and smartphones.
- Please scan the QR code using your smartphone or tablet.
+The web application is available for computers, tablets, and smartphones.<br>
+Please scan the QR code using your smartphone or tablet.<br>
 ![6ac39bf2c98bcf21e0b87fdf4d826b52](https://user-images.githubusercontent.com/76421729/233256105-42b76de9-1c95-44b1-a5f9-c16fc295afca.png)
 
 
